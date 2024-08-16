@@ -1,1 +1,1 @@
-# PatikaLists2
+Kullanıcıdan alınan bilgilerle string türünde liste oluşturuldu. Bunun için ilk başta while döngüsü kullanıldı. Listedeki eleman sayısının 5 adet olması için döngü içinde if karar yapısı kullanıldı bu şekilde break komutu ile döngüden çıkıldı. Liste oluştuktan sonra  foreach döngüsü kullanılarak ekrana yazdırıldı. 
